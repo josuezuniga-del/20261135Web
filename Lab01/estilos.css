@@ -1,10 +1,24 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #b1cfcf;
-    color: #16a78e;
+    background-color: #e7ebeb;
+    color: #abbdba;
     margin: 20px;
 }
-
 h1 {
     color: #4354e9;
+}
+h2 {
+    color: chocolate;
+}
+.personal {
+    color: rgba(26, 17, 17, 0.322);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.padres {
+    color: indigo;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.academico {
+    color: #967d0f;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
